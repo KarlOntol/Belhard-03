@@ -1,0 +1,15 @@
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.exe
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.deps.json
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.runtimeconfig.json
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.dll
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.pdb
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.AssemblyReference.cache
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfoInputs.cache
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfo.cs
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.CoreCompileInputs.cache
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.dll
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\refint\ArraysTask.dll
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.pdb
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.genruntimeconfig.cache
+C:\C# Belhard GIT\Belhard-04\ArraysTask\ArraysTask\obj\Debug\net6.0\ref\ArraysTask.dll
