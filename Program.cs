@@ -26,7 +26,7 @@
                 {
                     Console.WriteLine(i);
                 }
-            };
+            }
         }
      
     }
